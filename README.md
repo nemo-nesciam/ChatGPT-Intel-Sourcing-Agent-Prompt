@@ -6,3 +6,4 @@ This repository contains resources for the Intel Sourcing Agent, an automated to
 
 By using this Intel Sourcing Agent, analysts can streamline their intelligence collection process, ensuring quick recognition of relevant information and efficient data organization for better analysis and decision-making.
 
+For more details, you can also check out the Intel Sourcing Agent on the [OpenAI GPT Store](https://chatgpt.com/g/g-HcFHDwAdM-intel-sourcing-agent).
